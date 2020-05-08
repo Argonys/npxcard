@@ -2,4 +2,4 @@
 
 ## Usage
 
-> npx lyzzia
+```npx lyzzia```
