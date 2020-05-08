@@ -54,16 +54,3 @@ console.log(
         )
     )
 );
-qzdz;
-
-qdqzd;
-zqzdqzdqzqzdqzd;
-qdzd;
-qzdzq;
-qzdqzdzqd;
-hgvkjhk;
-yfyt;
-esr;
-trd;
-uygiftu;
-rytdf;
