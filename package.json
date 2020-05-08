@@ -1,0 +1,33 @@
+{
+    "name": "npxcard",
+    "version": "0.1.0",
+    "description": "My personal npx card",
+    "main": "./index.js",
+    "bin": {
+        "lyzzia": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sirlys/npxcard.git"
+    },
+    "keywords": [
+        "card",
+        "npm",
+        "npx",
+        "npx",
+        "npx card"
+    ],
+    "author": "lyzzia",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Sirlys/npxcard/issues"
+    },
+    "homepage": "https://github.com/Sirlys/npxcard#readme",
+    "dependencies": {
+        "boxen": "^4.2.0",
+        "chalk": "^4.0.0"
+    }
+}
